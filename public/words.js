@@ -59,5 +59,5 @@ export const WORDS = [
   "juego", "marco", "tambo", "leche", "bicho",
   "cuero", "cifra", "resto", "yerba", "cetro",
   "trono", "viena", "catre", "campo", "yarda",
-  "yelmo", "chile", "cueva", "canto",
+  "yelmo", "chile", "cueva", "canto", "plazo"
 ];
