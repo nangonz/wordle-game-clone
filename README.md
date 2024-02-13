@@ -9,4 +9,4 @@ understanding og HTML, CSS, Javascript and NPM.
 I'm going to be using a JavaScript library called Toastr for in-game notifications and a CSS  
 library called Animate.css for the board animations.
 
-## Check out the demo project here: https://wordle-clone-drab.vercel.app
+## Check out the demo project here: [https://wordle-clone-drab.vercel.app](https://wordle-guessing-game.netlify.app/)
